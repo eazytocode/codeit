@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2014-07-14
+img: gamedev.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+title: Game Development
+category: Services
+description: Data from different e commerce websites is take and models are built to predict the products on whic a vistor to the website might click. Notebook of this project is at <a href="https://github.com/pbpranavk/eCommerceData/blob/master/contentBasedPrediction.ipynb"  class="btn btn-default"><i class="fa fa-fw fa-github"></i> github</a> 
+ 
+
+---
